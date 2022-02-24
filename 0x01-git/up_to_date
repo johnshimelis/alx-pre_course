@@ -1,1 +1,8 @@
 
+init git
+git status
+git pull https://github.com/johnshimelis/alx-pre_course/master/0x01-git
+git add .
+git commit -m "How to be up to date in git"
+git remote add origin https://github.com/johnshimelis/alx-pre_course/master/0x01-git
+git push -u origin master
